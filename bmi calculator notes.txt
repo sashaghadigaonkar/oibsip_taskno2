@@ -1,0 +1,22 @@
+bmi calculator
+
+import tkinter for gui
+
+create canvas
+
+create label and entry for weight & height
+
+create frame in which calculate and clear button will be displayed
+
+define calculate function and clear function
+
+connect calculate function to calculate button and clear function to clear button using: command=""
+
+def calculate 
+    caculcate bmi using bmi formula
+
+def clear 
+    delete contents of height and weight
+
+create label for status
+ run if elif else condition statements for status
